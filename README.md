@@ -7,7 +7,7 @@ The API is based on the [Azure node.js SDKs](https://github.com/Azure/azure-sdk-
 
 Here are the server api functions:
 | Name     | Description |
-| :------- | :---- | 
+| --- | --- | 
 | Login | Use service principal credentials to authenticate and get a`Credentials` object for using with the rest of the functions. |
 | GetRates | A list of available Azure resources and estimated pricing information for each. |
 | GetConsumption | Get your estimated Azure consumption data. |
