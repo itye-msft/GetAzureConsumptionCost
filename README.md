@@ -5,6 +5,11 @@ This project uses 2 [Azure Commerce APIs](https://docs.microsoft.com/en-us/azure
 
 The API is based on the [Azure node.js SDKs](https://github.com/Azure/azure-sdk-for-node/tree/master/lib/services/commerce).
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Here are the server api functions:
 | Name     | Description |
 | --- | --- | 
